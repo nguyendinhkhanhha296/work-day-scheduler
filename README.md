@@ -1,6 +1,6 @@
 # work-day-scheduler
 
-[screenshot](/assets/2022-07-14-10-32-nguyendinhkhanhha296.github.io.png)
+![screenshot](/assets/2022-07-14-10-32-nguyendinhkhanhha296.github.io.png)
 
 ## Acceptance Criteria
 
